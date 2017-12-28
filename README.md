@@ -20,4 +20,6 @@ The client can be called by using:
 ```
 If these command-line arguments are not passed in, the defaults will be used.
 
+Code is based on files and presentations provided by Dr. Bettati.
+
 PLEASE NOTE: This work was completed by myself in Fall 2017. I am uploading this for educational purposes only. Remember, an Aggie does not lie, cheat, or steal, or tolerate those that do. Do not attempt to copy my code.
